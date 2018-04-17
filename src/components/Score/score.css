@@ -1,0 +1,8 @@
+.score {
+  width: 100%;
+  text-align: center;
+  font-size: 5rem;
+  font-family: monospace;
+  color: white;
+  margin-bottom: 50px;
+}
